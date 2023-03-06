@@ -1,0 +1,23 @@
+.contact-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100%;
+    flex-direction: column;
+}
+
+.contact-content-container {
+    padding: 15% 20%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    height: 100%;
+}
+
+.contact-title {
+    font-weight: bolder;
+    font-size: 80px;
+    color: #cfcfe8;
+    margin-bottom: 20px;
+}
